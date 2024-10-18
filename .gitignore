@@ -1,0 +1,19 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# Poetry
+poetry.lock
+.mypy_cache/
+.pytest_cache/
+.coverage
+.tox/
+*.env
+.env
+recipe_keypair.pem
+recipe_keypair.pem:Zone.Identifier
