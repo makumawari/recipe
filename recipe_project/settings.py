@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'recipe_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'recipe_db',  # Tên database của bạn
+        'NAME': 'recipi_db',  # Tên database của bạn
         'USER': 'postgres',  # Tên người dùng PostgreSQL
         'PASSWORD': 'kuong554',  # Mật khẩu của người dùng
         'HOST': 'recipi-db.cfq2q4myqi2j.ap-southeast-1.rds.amazonaws.com',
